@@ -9,3 +9,12 @@
 [Crimson Desert](https://store.steampowered.com/app/3321460/Crimson_Desert_Enhanced/)
 
 [Chained Together](https://store.steampowered.com/app/2567870/Chained_Together/)
+
+## **Some cool emojis**
+
+
+
+## **Some cool game images**
+![Elden Ring](https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)
+
+![Another Crab's Treasure](https://upload.wikimedia.org/wikipedia/en/0/01/Another_Crab%27s_Treasure_poster.webp?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)
