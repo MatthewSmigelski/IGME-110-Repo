@@ -8,3 +8,4 @@
 
 [Crimson Desert](https://store.steampowered.com/app/3321460/Crimson_Desert_Enhanced/)
 
+[Chained Together](https://store.steampowered.com/app/2567870/Chained_Together/)
