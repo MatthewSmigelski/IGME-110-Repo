@@ -12,7 +12,11 @@
 
 ## **Some cool emojis**
 
-
+⛓️
+🐟
+🦀
+🏜️
+⛓️
 
 ## **Some cool game images**
 ![Elden Ring](https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)
