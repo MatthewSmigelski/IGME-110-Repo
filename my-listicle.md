@@ -12,7 +12,7 @@
 
 ## **Some cool emojis**
 
-⛓️
+⚔️
 🐟
 🦀
 🏜️
